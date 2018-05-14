@@ -465,7 +465,8 @@ button, .button {
     .button__accent:hover {
       background-color:#c4981e;
       border-color: #c4981e;
-      color: #c4981e;  }
+      color: #fff;
+	  }
 
 .button__delete {
   background-color: tomato;
@@ -867,6 +868,10 @@ select {
     position: relative;
     z-index: 3; }
 
+	  .hero__inner {
+
+	  }	  
+	  
 .bridge__logo {
 	width: 1000px;
 	margin: 0 auto;
@@ -1061,6 +1066,11 @@ color: #fff;}
 	
  }
 
+	  .clouds { 
+	 background-attachment: inherit 
+	 }
+	  
+	  
 .cta--plain {
   background: #4c9dde; }
 
